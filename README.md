@@ -1,4 +1,4 @@
-# life-insurance-data-analysis-
+# health-insurance-data-analysis-
 Tableau data visualization
 
 ![Dashboard](dashboard.png)
